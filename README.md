@@ -4,6 +4,8 @@ Hackintosh Ryzentosh OSX86 on AMD based machines
 
 Env.  
 * Lenovo ThinkCentre M75s Small Gen2 AMD Ryzen 7 PRO 4750G
+* 4750G iGPU Radeon Graphics No Acceleration
+* BIOS M3AKT3EA 10/21/2021
 * Memory DDR4-2667 8GB + 32GB + 32GB
 * SATA SSD 240GB
 * Audio Realtek High Definition Audio ALC623 HDAUDIO\FUNC_01&VEN_10EC&DEV_0623
@@ -11,6 +13,13 @@ Env.
 
 * OpenCore 0.7.7
 * macOS Big Sur 11.6.2 (20G314)
+* macOS Big Sur 11.6.3 (20G415)
+
+# NVIDIA GeForce GT 730
+If You have NVIDIA GeForce GT 730  
+It can use with Acceleration (I Tested)  
+【なぜ？】ThinkCentre M75s Small Gen2に NVIDIA GeForce GT 730のグラボを増設してみた【衝動】  
+http://www.neko.ne.jp/~freewing/hardware/lenovo_m75s_amd_ryzen_pro_4750g_nvidia_geforce_gt_730/  
 
 # Caution !!
 ## [MUST] Please generate and fill in the values such as SystemSerialNumber of PlatformInfo - Generic .
