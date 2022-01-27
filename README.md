@@ -15,11 +15,18 @@ Env.
 * macOS Big Sur 11.6.2 (20G314)
 * macOS Big Sur 11.6.3 (20G415)
 
+<img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2_1.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
+<img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/lenovo_m75s_amd_ryzen_pro_4750g_review_picture_40.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
+
 # NVIDIA GeForce GT 730
 If You have NVIDIA GeForce GT 730  
 It can use with Acceleration (I Tested)  
 【なぜ？】ThinkCentre M75s Small Gen2に NVIDIA GeForce GT 730のグラボを増設してみた【衝動】  
 http://www.neko.ne.jp/~freewing/hardware/lenovo_m75s_amd_ryzen_pro_4750g_nvidia_geforce_gt_730/  
+
+<img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2_2.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
+<img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/lenovo_m75s_amd_ryzen_pro_4750g_nvidia_geforce_gt_730_2.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
+
 
 # Caution !!
 ## [MUST] Please generate and fill in the values such as SystemSerialNumber of PlatformInfo - Generic .
