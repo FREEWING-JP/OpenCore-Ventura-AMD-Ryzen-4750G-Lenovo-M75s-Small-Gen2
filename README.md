@@ -35,6 +35,9 @@ http://www.neko.ne.jp/~freewing/hardware/lenovo_m75s_amd_ryzen_pro_4750g_nvidia_
 OpenCoreを使って ThinkCentre M75s Small Gen2 Ryzen 4750Gで macOS Big Sur Ryzentoshの夢を見た！  
 http://www.neko.ne.jp/~freewing/hardware/lenovo_m75s_amd_ryzen_pro_4750g_ryzentosh_osx86/  
 
+<img src="https://img.youtube.com/vi/EEBdeeZ3W-w/hqdefault.jpg" alt="OpenCore Ryzentosh Big Sur Lenovo ThinkCentre M75s Small Gen2 AMD Ryzen 7 PRO 4750G Hackintosh OSX86" title="OpenCore Ryzentosh Big Sur Lenovo ThinkCentre M75s Small Gen2 AMD Ryzen 7 PRO 4750G Hackintosh OSX86" width="320" height="180"> _ 
+[YouTube https://youtu.be/EEBdeeZ3W-w](https://youtu.be/EEBdeeZ3W-w)  
+
 # Very Thanks
 This EFI was developed based on the following repository  
 https://github.com/fjallsarlon/R53500X-RX570-BigSur-EFI  
