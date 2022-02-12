@@ -30,6 +30,14 @@
 				<key>Path</key>
 				<string>SSDT-CPUR.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-GPU-SPOOF-R7-240-6798.aml</string>
+				<key>Enabled</key>
+				<false/>
+				<key>Path</key>
+				<string>SSDT-GPU-SPOOF-R7-240-6798.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
