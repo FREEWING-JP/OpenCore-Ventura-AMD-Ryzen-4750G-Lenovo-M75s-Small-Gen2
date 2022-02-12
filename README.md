@@ -1,5 +1,8 @@
 # OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2
-OpenCore 0.7.7 Big Sur 11.6.2 AMD Ryzen 4750G Lenovo M75s Small Gen2 Hackintosh Ryzentosh OSX86
+OpenCore 0.7.8  
+Big Sur 11.6.3  
+Monterey 12.2.1  
+AMD Ryzen 4750G Lenovo M75s Small Gen2 Hackintosh Ryzentosh OSX86
 Hackintosh Ryzentosh OSX86 on AMD based machines  
 
 Env.  
@@ -11,9 +14,11 @@ Env.
 * Audio Realtek High Definition Audio ALC623 HDAUDIO\FUNC_01&VEN_10EC&DEV_0623
 * Intel Wireless-AX200 WiFi + Bluetooth (But useless WiFi)
 
-* OpenCore 0.7.7
+* OpenCore 0.7.8
 * macOS Big Sur 11.6.2 (20G314)
 * macOS Big Sur 11.6.3 (20G415)
+* macOS Monterey 12.2 (21D49)
+* macOS Monterey 12.2.1 (21D62)
 
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2_1.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/lenovo_m75s_amd_ryzen_pro_4750g_review_picture_40.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
@@ -21,12 +26,17 @@ Env.
 # NVIDIA GeForce GT 730
 If You have NVIDIA GeForce GT 730  
 It can use with Acceleration (I Tested)  
+Big Sur only (I tested Monterey with Geforce-Kepler-patcher but Setup difficult for me)  
 【なぜ？】ThinkCentre M75s Small Gen2に NVIDIA GeForce GT 730のグラボを増設してみた【衝動】  
 http://www.neko.ne.jp/~freewing/hardware/lenovo_m75s_amd_ryzen_pro_4750g_nvidia_geforce_gt_730/  
 
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2_2.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/lenovo_m75s_amd_ryzen_pro_4750g_nvidia_geforce_gt_730_2.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
 
+# AMD Radeon R7 240
+Can't enable Graphic Accelleration  
+【なぜ？】ThinkCentre M75s Small Gen2に AMD Radeon R7 240のグラボを増設してみた【衝動】  
+http://www.neko.ne.jp/~freewing/hardware/lenovo_m75s_amd_ryzen_pro_4750g_amd_radeon_r7_240/  
 
 # Caution !!
 ## [MUST] Please generate and fill in the values such as SystemSerialNumber of PlatformInfo - Generic .
