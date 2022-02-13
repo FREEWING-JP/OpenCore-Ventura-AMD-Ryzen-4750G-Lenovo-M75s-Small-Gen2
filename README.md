@@ -9,9 +9,10 @@ Env.
 * Lenovo ThinkCentre M75s Small Gen2 AMD Ryzen 7 PRO 4750G
 * 4750G iGPU Radeon Graphics No Acceleration
 * BIOS M3AKT3EA 10/21/2021
+* BIOS M3AKT41A 01/19/2022
 * Memory DDR4-2667 8GB + 32GB + 32GB
 * SATA SSD 240GB
-* Audio Realtek High Definition Audio ALC623 HDAUDIO\FUNC_01&VEN_10EC&DEV_0623
+* Audio Realtek High Definition Audio ALC623 HDAUDIO\FUNC_01&VEN_10EC&DEV_0623(But useless)
 * Intel Wireless-AX200 WiFi + Bluetooth (But useless WiFi)
 
 * OpenCore 0.7.8
