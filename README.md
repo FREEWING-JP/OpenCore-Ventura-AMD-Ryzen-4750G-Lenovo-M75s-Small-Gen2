@@ -47,6 +47,8 @@ OpenCoreを使って ThinkCentre M75s Small Gen2 Ryzen 4750Gで macOS Big Sur Ry
 http://www.neko.ne.jp/~freewing/hardware/lenovo_m75s_amd_ryzen_pro_4750g_ryzentosh_osx86/  
 
 ## Youtube
+#### Monterey
+[<img src="https://img.youtube.com/vi/VL0yUOnLv-o/hqdefault.jpg" alt="OpenCore Ryzentosh Monterey Lenovo M75s Small Gen2 AMD Ryzen 7 PRO 4750G Hackintosh OSX86" title="OpenCore Ryzentosh Monterey Lenovo M75s Small Gen2 AMD Ryzen 7 PRO 4750G Hackintosh OSX86" width="320" height="180"> YouTube https://youtu.be/VL0yUOnLv-o](https://youtu.be/VL0yUOnLv-o)  
 #### Big Sur
 [<img src="https://img.youtube.com/vi/EEBdeeZ3W-w/hqdefault.jpg" alt="OpenCore Ryzentosh Big Sur Lenovo ThinkCentre M75s Small Gen2 AMD Ryzen 7 PRO 4750G Hackintosh OSX86" title="OpenCore Ryzentosh Big Sur Lenovo ThinkCentre M75s Small Gen2 AMD Ryzen 7 PRO 4750G Hackintosh OSX86" width="320" height="180"> YouTube https://youtu.be/EEBdeeZ3W-w](https://youtu.be/EEBdeeZ3W-w)  
 
