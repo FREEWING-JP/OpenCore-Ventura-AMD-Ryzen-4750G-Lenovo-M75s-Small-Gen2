@@ -13,7 +13,8 @@ Env.
 * Memory DDR4-2667 8GB + 32GB + 32GB
 * SATA SSD 240GB
 * Audio Realtek High Definition Audio ALC623 HDAUDIO\FUNC_01&VEN_10EC&DEV_0623(But useless)
-* Intel Wireless-AX200 WiFi + Bluetooth (But useless WiFi)
+* ~~Intel Wireless-AX200 WiFi + Bluetooth (But useless WiFi)~~
+* Broadcom BCM943602CS WiFi + Bluetooth (Stable Works fine)
 
 * OpenCore 0.7.8
 * macOS Big Sur 11.6.2 (20G314)
