@@ -10,6 +10,7 @@ Env.
 * 4750G iGPU Radeon Graphics No Acceleration
 * BIOS M3AKT3EA 10/21/2021
 * BIOS M3AKT41A 01/19/2022
+* BIOS M3AKT42A 03/30/2022
 * Memory DDR4-2667 8GB + 32GB + 32GB
 * SATA SSD 240GB
 * Audio Realtek High Definition Audio ALC623 HDAUDIO\FUNC_01&VEN_10EC&DEV_0623(But useless)
@@ -17,11 +18,13 @@ Env.
 * Broadcom BCM943602CS WiFi + Bluetooth (Stable Works fine)
 
 * OpenCore 0.7.8
+* OpenCore 0.8.0
 * macOS Big Sur 11.6.2 (20G314)
 * macOS Big Sur 11.6.3 (20G415)
 * macOS Big Sur 11.6.4 (20G417)
 * macOS Monterey 12.2 (21D49)
 * macOS Monterey 12.2.1 (21D62)
+* macOS Monterey 12.3.1 (21E258)
 
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2_1.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/lenovo_m75s_amd_ryzen_pro_4750g_review_picture_40.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
