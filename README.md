@@ -1,7 +1,7 @@
-# OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2
-OpenCore 0.7.8  
+# OpenCore-0.8.0-Monterey-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2
+OpenCore 0.8.0  
 Big Sur 11.6.3  
-Monterey 12.2.1  
+Monterey 12.3.1  
 AMD Ryzen 4750G Lenovo M75s Small Gen2 Hackintosh Ryzentosh OSX86
 Hackintosh Ryzentosh OSX86 on AMD based machines  
 
