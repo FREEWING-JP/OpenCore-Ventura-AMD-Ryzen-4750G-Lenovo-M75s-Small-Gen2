@@ -1,7 +1,7 @@
-# OpenCore-0.8.0-Monterey-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2
-OpenCore 0.8.0  
+# OpenCore-0.8.1-Monterey-12.4-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2
+OpenCore 0.8.1  
 Big Sur 11.6.3  
-Monterey 12.3.1  
+Monterey 12.4  
 AMD Ryzen 4750G Lenovo M75s Small Gen2 Hackintosh Ryzentosh OSX86
 Hackintosh Ryzentosh OSX86 on AMD based machines  
 
@@ -19,12 +19,14 @@ Env.
 
 * OpenCore 0.7.8
 * OpenCore 0.8.0
+* OpenCore 0.8.1
 * macOS Big Sur 11.6.2 (20G314)
 * macOS Big Sur 11.6.3 (20G415)
 * macOS Big Sur 11.6.4 (20G417)
 * macOS Monterey 12.2 (21D49)
 * macOS Monterey 12.2.1 (21D62)
 * macOS Monterey 12.3.1 (21E258)
+* macOS Monterey 12.4 (21F79)
 
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2_1.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/lenovo_m75s_amd_ryzen_pro_4750g_review_picture_40.jpg" alt="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
