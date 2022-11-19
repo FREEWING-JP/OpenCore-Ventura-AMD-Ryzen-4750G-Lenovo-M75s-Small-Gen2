@@ -1,22 +1,30 @@
-# OpenCore-0.8.1-Monterey-12.4-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2
-OpenCore 0.8.1  
-Big Sur 11.6.3  
-Monterey 12.4  
-AMD Ryzen 4750G Lenovo M75s Small Gen2 Hackintosh Ryzentosh OSX86
+# OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2
+2022/11/18  
+OpenCore 0.8.6  
+macOS Monterey 12.6.1 (21G217)  
+macOS Ventura 13.0.1 (22A400)  
+AMD Ryzen 4750G Lenovo M75s Small Gen2 Hackintosh Ryzentosh OSX86  
 Hackintosh Ryzentosh OSX86 on AMD based machines  
 
 Env.  
 * Lenovo ThinkCentre M75s Small Gen2 AMD Ryzen 7 PRO 4750G
 * 4750G iGPU Radeon Graphics No Acceleration
-* BIOS M3AKT3EA 10/21/2021
-* BIOS M3AKT41A 01/19/2022
-* BIOS M3AKT42A 03/30/2022
 * Memory DDR4-2667 8GB + 32GB + 32GB
 * SATA SSD 240GB
 * Audio Realtek High Definition Audio ALC623 HDAUDIO\FUNC_01&VEN_10EC&DEV_0623(But useless)
 * ~~Intel Wireless-AX200 WiFi + Bluetooth (But useless WiFi)~~
-* Broadcom BCM943602CS WiFi + Bluetooth (Stable Works fine)
+* Broadcom BCM943602CS WiFi + Bluetooth (WiFi Stable Works fine . Bluetooth Unstable)
+* BIOS M3AKT49A 10/03/2022
+* OpenCore 0.8.6
+* macOS Monterey 12.6.1 (21G217)
+* macOS Ventura 13.0.1 (22A400)
 
+<img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2.png" alt="OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="280" height="543">  
+<img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.8.6-Monterey-12.6.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2.png" alt="OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
+
+* BIOS M3AKT3EA 10/21/2021
+* BIOS M3AKT41A 01/19/2022
+* BIOS M3AKT42A 03/30/2022
 * OpenCore 0.7.8
 * OpenCore 0.8.0
 * OpenCore 0.8.1
