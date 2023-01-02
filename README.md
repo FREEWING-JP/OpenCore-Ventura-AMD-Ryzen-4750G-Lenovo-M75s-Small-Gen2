@@ -1,8 +1,10 @@
 # OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2
+2023/01/01  
+macOS Ventura 13.1 (22C65)  
 2022/11/18  
 OpenCore 0.8.6  
-macOS Monterey 12.6.1 (21G217)  
 macOS Ventura 13.0.1 (22A400)  
+macOS Monterey 12.6.1 (21G217)  
 AMD Ryzen 4750G Lenovo M75s Small Gen2 Hackintosh Ryzentosh OSX86  
 Hackintosh Ryzentosh OSX86 on AMD based machines  
 
@@ -16,8 +18,9 @@ Env.
 * Broadcom BCM943602CS WiFi + Bluetooth (WiFi Stable Works fine . Bluetooth Unstable)
 * BIOS M3AKT49A 10/03/2022
 * OpenCore 0.8.6
-* macOS Monterey 12.6.1 (21G217)
+* macOS Ventura 13.1 (22C65)
 * macOS Ventura 13.0.1 (22A400)
+* macOS Monterey 12.6.1 (21G217)
 
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2.png" alt="OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="280" height="543">  
 <img src="https://raw.githubusercontent.com/FREEWING-JP/OpenCore-0.7.7-Big-Sur-11.6.2-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2/main/assets/OpenCore-0.8.6-Monterey-12.6.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2.png" alt="OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" title="OpenCore-0.8.6-Ventura-13.0.1-AMD-Ryzen-4750G-Lenovo-M75s-Small-Gen2" width="320" height="240">  
